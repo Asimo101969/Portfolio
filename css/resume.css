@@ -53,7 +53,7 @@ body{
 }
 
 .display-picture{
-    background-image: url(/img/display-picrute2.jpg);
+    background-image: url(../img/display-picrute2.jpg);
     width: 30%;
     height: auto;
     background-size:cover;
